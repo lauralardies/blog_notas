@@ -15,9 +15,9 @@ Todos los archivos de esta tarea están guardados en la carpeta `Entrega`, donde
 - Documento de HTML llamado `index.html` en el cual desarrollamos la estructura de nuestro programa.
 - Carpeta llamada `styles`, donde se encuentra un archivo de CSS, `style.css`, que se usa para modificar la vista del HTML que ya hemos estructurado anteriormente.
 ## Código
-### Código `index.py`
+### Código `index.html`
 ```
 ```
-### Código `style.py`
+### Código `style.css`
 ```
 ```
