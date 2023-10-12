@@ -3,7 +3,7 @@ Mi dirección de GitHub para este repositorio es la siguiente: [GitHub](https://
 https://github.com/lauralardies/entrega1_ironhack
 
 ## Tarea
-![Mockup](https://github.com/lauralardies/entrega1_ironhack/blob/main/mockup.png?raw=true)
+![Mockup](https://github.com/lauralardies/entrega1_ironhack/blob/main/mockup.png?raw=true width="400")
 
 Convert this mockup into an html and css page without using flexbox. Try to create a faithful copy of the mockup.
 - Enter at least one image.
