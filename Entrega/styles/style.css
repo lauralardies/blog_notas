@@ -1,3 +1,17 @@
+* {
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+body {
+    color: #313130;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
 div {
     width: 200px;
     float: left;
