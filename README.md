@@ -25,4 +25,4 @@ Todos los archivos de esta tarea están guardados en la carpeta `Entrega`, donde
 ```
 
 ## Output
-<img src="https://github.com/lauralardies/entrega1_ironhack/blob/main/output.jpg" width="600" alt="Output">
+<img src="https://github.com/lauralardies/entrega1_ironhack/blob/main/images/output.png" width="600" alt="Output">
