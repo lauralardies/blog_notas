@@ -16,6 +16,9 @@ Convert this mockup into an html and css page without using flexbox. Try to crea
 Todos los archivos de esta tarea están guardados en la carpeta `Entrega`, donde nos encontraremos:
 - Documento de HTML llamado `index.html` en el cual desarrollamos la estructura de nuestro programa.
 - Carpeta llamada `styles`, donde se encuentra un archivo de CSS, `style.css`, que se usa para modificar la vista del HTML que ya hemos estructurado anteriormente.
+
+Además contamos con otra carpeta llamada `images` que almacena las imágenes que usamos en este archivo `README.md`.
+
 ## Código
 ### Código `index.html`
 ```
