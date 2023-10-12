@@ -4,6 +4,7 @@ https://github.com/lauralardies/entrega1_ironhack
 
 ## Tarea
 ![Mockup](https://github.com/lauralardies/entrega1_ironhack/blob/main/mockup.png?raw=true)
+
 Convert this mockup into an html and css page without using flexbox. Try to create a faithful copy of the mockup.
 - Enter at least one image.
 - Use at least 3 different colors for the elements.
