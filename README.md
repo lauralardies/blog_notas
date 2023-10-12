@@ -23,3 +23,6 @@ Todos los archivos de esta tarea están guardados en la carpeta `Entrega`, donde
 ### Código `style.css`
 ```
 ```
+
+## Output
+<img src="https://github.com/lauralardies/entrega1_ironhack/blob/main/output.jpg" width="600" alt="Output">
