@@ -1,27 +1,66 @@
-h1 {
-    background-color: #f4e652;
-    font-size: 30px;
+div {
+    width: 200px;
+    float: left;
+    border-radius: 3.5%;
+}
+
+/* Clase que añade un espacio debajo */
+.space-down {
+    margin-bottom: 20px;
+}
+
+/* Clase que agrega el borde de abajo */
+.line-bottom{
+    border-bottom: 1px solid #000;
+}
+
+/* Clase que elimina la propiedad border-radius de los bordes de abajo */
+.bottom-border {
+    border-bottom-left-radius: 0%;
+    border-bottom-right-radius: 0%;
+}
+
+/* Clase que elimina la propiedad border-radius de los bordes de arriba */
+.top-border {
+    border-top-left-radius: 0%;
+    border-top-right-radius: 0%;
+}
+
+/* Clase que elimina la propiedad border-radius de los bordes de la izquierda */
+.left-border {
+    border-top-left-radius: 0%;
+    border-bottom-left-radius: 0%;
+}
+
+/* Clase que elimina la propiedad border-radius de los bordes de la derecha */
+.right-border {
+    border-top-right-radius: 0%;
+    border-bottom-right-radius: 0%;
+}
+
+#div0 {
+    background-color: #f7f451;
+    padding: 10px 0;
     text-align: center;
 }
 
-div {
-    width: 300px;
-    float: left;
-}
-
-footer {
-    background-color: #52a3f4;
-    height: 60%;
-}
-
 #div1, #div2 {
-    height: 30%;
-    border: 1px solid black;
-    background-color: #9e1616;
+    background-color: #ee4242;
+    width: 180px;
+    padding: 75px 0;
+    text-align: center;
 }
 
 #div3 {
-    height: 50%;
-    border: 1px solid black;
-    background-color: #87e346;
+    background-color: #69d465;
+    width: 400px;
+    padding: 110px 0;
+    text-align: center;
+}
+
+#div4 {
+    background-color: #8ec2f6;
+    width: 400px;
+    padding: 30px 0;
+    text-align: center;
 }
