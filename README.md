@@ -148,4 +148,5 @@ span {
 
 ## Output
 Lo que se muestra al ejecutar el HTML, es lo siguiente:
+
 <img src="https://github.com/lauralardies/entrega1_ironhack/blob/main/images/output.png" width="600" alt="Output">
